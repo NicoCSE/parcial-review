@@ -1,0 +1,32 @@
+{
+  "toolbar": {
+    "subtitle": "Custom Wine Cellars Manufacturers",
+    "home": "Home",
+    "newItem": "New Storage Item"
+  },
+  "home": {
+    "title": "Home",
+    "description": "Engineered Products for Wine Cellars.",
+    "myCellars": "My Wine Cellars",
+    "empty": "Empty",
+    "totalBottles": "Total Bottles",
+    "availableCapacity": "Available Capacity"
+  },
+  "newItem": {
+    "title": "New Storage Item",
+    "subtitle": "Add Wine Bottles to Your Cellar",
+    "wineType": "Wine Type",
+    "wineTypePlaceholder": "Select a Wine Type",
+    "wine": "Wine",
+    "winePlaceholder": "Select a Wine",
+    "quantity": "Quantity",
+    "cancel": "Cancel",
+    "create": "Create"
+  },
+
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "description": "The requested route was not found.",
+    "returnBtn": "Return to Home"
+  }
+}

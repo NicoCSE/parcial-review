@@ -1,0 +1,31 @@
+{
+  "toolbar": {
+    "subtitle": "Fabricantes de Bodegas de Vino a Medida",
+    "home": "Inicio",
+    "newItem": "Nuevo Artículo"
+  },
+  "home": {
+    "title": "Inicio",
+    "description": "Productos Diseñados para Bodegas de Vino.",
+    "myCellars": "Mis Bodegas de Vino",
+    "empty": "Vacío",
+    "totalBottles": "Botellas Totales",
+    "availableCapacity": "Capacidad Disponible"
+  },
+  "newItem": {
+    "title": "Nuevo Artículo",
+    "subtitle": "Añade Botellas de Vino a tu Bodega",
+    "wineType": "Tipo de Vino",
+    "wineTypePlaceholder": "Selecciona un Tipo de Vino",
+    "wine": "Vino",
+    "winePlaceholder": "Selecciona un Vino",
+    "quantity": "Cantidad",
+    "cancel": "Cancelar",
+    "create": "Crear"
+  },
+  "notFound": {
+    "title": "404 - Página no encontrada",
+    "description": "La ruta solicitada no fue encontrada.",
+    "returnBtn": "Volver al Inicio"
+  }
+}

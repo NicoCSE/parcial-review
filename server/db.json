@@ -1,0 +1,105 @@
+{
+  "cellars": [
+    {
+      "id": 1,
+      "name": "Reds Cellar",
+      "wineType": "reds",
+      "capacity": 600
+    },
+    {
+      "id": 2,
+      "name": "Whites Cellar",
+      "wineType": "whites",
+      "capacity": 450
+    },
+    {
+      "id": 3,
+      "name": "Sparkling Cellar",
+      "wineType": "sparkling",
+      "capacity": 350
+    },
+    {
+      "id": 4,
+      "name": "Rosé Cellar",
+      "wineType": "rose",
+      "capacity": 280
+    },
+    {
+      "id": 5,
+      "name": "Dessert Cellar",
+      "wineType": "dessert",
+      "capacity": 220
+    },
+    {
+      "id": 6,
+      "name": "Port Cellar",
+      "wineType": "port",
+      "capacity": 180
+    }
+  ],
+  "storage-items": [
+    {
+      "id": 1,
+      "cellarId": 1,
+      "wineType": "reds",
+      "wineId": 1,
+      "wineName": "Emporda 2012",
+      "quantity": 48,
+      "registeredAt": "2026-05-10T14:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "cellarId": 1,
+      "wineType": "reds",
+      "wineId": 4,
+      "wineName": "Cabernet Sauvignon RBS Beckstoffer To Kalon Vineyard 2015",
+      "quantity": 24,
+      "registeredAt": "2026-05-12T09:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "cellarId": 2,
+      "wineType": "whites",
+      "wineId": 1,
+      "wineName": "Montrachet Grand Cru 2010",
+      "quantity": 36,
+      "registeredAt": "2026-05-13T16:45:00.000Z"
+    },
+    {
+      "id": 4,
+      "cellarId": 3,
+      "wineType": "sparkling",
+      "wineId": 201,
+      "wineName": "Champagne Brut Prestige",
+      "quantity": 30,
+      "registeredAt": "2026-05-15T11:20:00.000Z"
+    },
+    {
+      "id": 5,
+      "cellarId": 4,
+      "wineType": "rose",
+      "wineId": 301,
+      "wineName": "Provence Rosé 2023",
+      "quantity": 22,
+      "registeredAt": "2026-05-16T08:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "cellarId": 5,
+      "wineType": "dessert",
+      "wineId": 501,
+      "wineName": "Château d'Yquem 2015",
+      "quantity": 12,
+      "registeredAt": "2026-05-17T10:30:00.000Z"
+    },
+    {
+      "cellarId": 3,
+      "wineType": "sparkling",
+      "wineId": 1,
+      "wineName": "Clos d'Ambonnay Blanc de Noirs Brut Champagne 1995",
+      "quantity": 1,
+      "registeredAt": "2026-10-12T17:39:38.370Z",
+      "id": 7
+    }
+  ]
+}
